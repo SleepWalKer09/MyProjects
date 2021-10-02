@@ -1,0 +1,7 @@
+Reto de busqueda de vacantes de interes a la pagina web: "https://www.timesjobs.com#
+
+Instrucciones:
+  #Hacer scrapping a la web de timejobs y traer datos sobre alguna vacante de interes
+  #1.Las vacantes deben ser recientes
+  #2.El usuario pone habilidades desconocidas para que exista un filtro personalizado
+  #3.Se deben guardar los resultados en otro archivo diferente
